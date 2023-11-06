@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/augustodaleffe/Desktop/ESTRUTURA DE DADOS /T_1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/usr/local/Cellar/googletest/1.13.0/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/main.dir/main.cpp.o -c \"/Users/augustodaleffe/Desktop/ESTRUTURA DE DADOS /T_1/main.cpp\"",
+  "file": "/Users/augustodaleffe/Desktop/ESTRUTURA DE DADOS /T_1/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]

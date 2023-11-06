@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20230623-2042-Experimental"
+	Name="cliente-200-135-67-214.wireless.ufsc.br"
+	Generator="ctest-3.26.4"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="14.0.0.14000029"
+	OSName="macOS"
+	Hostname="MacBook-Air-de-Augusto.local"
+	OSRelease="12.6.6"
+	OSVersion="21G646"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="61"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="1024"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="1800"
+	>
+	<Testing>
+		<StartDateTime>Jun 23 17:42 -03</StartDateTime>
+		<StartTestTime>1687552943</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 23 17:42 -03</EndDateTime>
+		<EndTestTime>1687552943</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
